@@ -8,5 +8,6 @@ theme: minima
 # social links
 twitter_username: emma_lily11 # DO NOT include the @ character, or else the build will fail!
 github_username:  etong11 # DO NOT include the @ character, or else the build will fail!
+instagram_username: emma_lily11
 
 show_excerpts: false # set to false to remove excerpts on the homepage
