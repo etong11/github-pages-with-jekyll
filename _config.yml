@@ -4,7 +4,6 @@ email: eat2004@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hello! My name is Emma Tong and here is a website all about me.
 theme: minima
-avatar: bio-photo.jpg
 
 # social links
 twitter_username: emma_lily11 # DO NOT include the @ character, or else the build will fail!
