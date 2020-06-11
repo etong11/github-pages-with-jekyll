@@ -1,2 +1,2 @@
-## Welcome to a website about me
-I'm glad you are here. Here's some stuff about me:
+## Welcome to my website!
+This is a website about me, Emma Tong. Scroll through my posts below to find more information about me.
